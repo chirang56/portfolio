@@ -10,3 +10,36 @@ Currently, two official plugins are available:
 
 
 Thats my portfolio!
+
+
+## WOrking with this repo
+
+**To know the status:**
+```bash
+git status
+```
+
+**To add to staging area:**
+```bash
+git add . 
+```
+
+**To commit changes:**
+```bash
+git commit -m "your msg"
+```
+
+**TO push to the github**
+```bash
+git push
+```
+or
+
+```bash
+git push origin main
+```
+
+**TO get changes from github**
+```bash
+git pull origin main
+```
